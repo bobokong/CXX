@@ -1,0 +1,11 @@
+#include<iostream>
+
+using namespace std;
+
+int main(){
+    printData pd;
+    pd.print(125.4);
+    pd.print(12);
+    pd.print("this is a string")
+    return 0;
+}
